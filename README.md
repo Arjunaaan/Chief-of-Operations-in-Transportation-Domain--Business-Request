@@ -6,8 +6,6 @@ This repository contains a collection of SQL queries created to address various 
 ## Table of Contents
 1. [Queries Included](#queries-included)
 2. [Database Structure](#database-structure)
-3. [Usage Instructions](#usage-instructions)
-4. [Contributing](#contributing)
 
 ## Queries Included
 The repository includes SQL scripts to solve the following business requests:
